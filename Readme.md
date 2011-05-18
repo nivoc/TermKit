@@ -38,6 +38,7 @@ Addresses following problems:
 
 1. [Install node.js and npm](http://howtonode.org/how-to-install-nodejs).
 2. install node-mime: `npm install mime`
+2. install socket.io: `npm install socket.io`
 3. Clone the TermKit repository: `git clone git@github.com:unconed/TermKit.git --recursive`
 4. Run the NodeKit daemon: `cd Node; node nodekit.js`
 5. Unzip and run the Mac app in Build/TermKit.zip
